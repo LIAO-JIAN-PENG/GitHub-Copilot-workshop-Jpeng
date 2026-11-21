@@ -19,11 +19,11 @@ Remember, it's self-paced so feel free to take a break! ☕️
   - [x] 建立根目錄 `app.js`
   - [x] 在瀏覽器中驗證所有待辦清單功能
   - [x] 提交並推送變更
-- [ ] **Step 2: Agent Mode 進階**
-  - [ ] 建立深色模式切換並保存偏好
-  - [ ] 新增全部 / 未完成 / 已完成篩選
-  - [ ] 練習四種還原方法
-  - [ ] 建立 `CHANGELOG.md`
+- [x] **Step 2: Agent Mode 進階**
+  - [x] 建立深色模式切換並保存偏好
+  - [x] 新增全部 / 未完成 / 已完成篩選
+  - [x] 熟悉四種還原方法與可用提示
+  - [x] 建立 `CHANGELOG.md`
 - [ ] **Step 3: MCP Integration**
 - [ ] **Step 4: Agentic Workflows**
 

@@ -13,6 +13,10 @@
 | Complete a todo | Pass | Checking the item added the completed state and changed the count to "未完成:0 項" |
 | Persistence after reload | Pass | "驗證待辦事項" remained in the list and stayed checked after page reload |
 | Delete a todo | Pass | Clicking the delete button removed the item and restored the empty state |
+| Dark mode toggle | Pass | Toggling switched `data-theme` from dark to light |
+| Theme persistence | Pass | Reload preserved the manually selected light theme |
+| All / Active / Completed filters | Pass | Active and Completed views each showed one matching item |
+| Remaining count under filter | Pass | With one active item, the counter remained "未完成:1 項" |
 
 ## Implementation files
 
