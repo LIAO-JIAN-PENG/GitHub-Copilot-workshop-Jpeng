@@ -24,6 +24,11 @@ Remember, it's self-paced so feel free to take a break! ☕️
   - [x] 新增全部 / 未完成 / 已完成篩選
   - [x] 熟悉四種還原方法與可用提示
   - [x] 建立 `CHANGELOG.md`
-- [ ] **Step 3: MCP Integration**
+- [x] **Step 3: MCP Integration**
+  - [x] 建立 `.vscode/mcp.json`
+  - [x] 設定 Microsoft Learn MCP
+  - [x] 設定 GitHub MCP
+  - [x] 查詢官方無障礙與配色建議
+  - [x] 列出此 repo 的開啟中 Issue
 - [ ] **Step 4: Agentic Workflows**
 
